@@ -5,18 +5,22 @@
 [ 👆ICPC Assiut University (Newcomers)☝.
 ](https://codeforces.com/group/MWSDmqGsZm/contests)
 
+## Programming Language
+***[Solution in c++ <img src="https://github.com/Mo7amed3bdelghany/Mo7amed3bdelghany/blob/main/Img/C++.png?raw=true" height="28"/>](https://github.com/Mo7amed3bdelghany/Upslove_Assiut_University/tree/main/01.C%2B%2B)***  
+***[Solution in pyhon <img src="https://github.com/Mo7amed3bdelghany/Mo7amed3bdelghany/blob/main/Img/python.png?raw=true" height="25"/>](https://github.com/Mo7amed3bdelghany/Upslove_Assiut_University/tree/main/02.Python)*** 
+
 ## Description
 *Welcome to the Problem Solving Solutions repository!* 🤗  
 This Repository is your first step in Comptitive Programming World:  
- it is contains solutions for [ICPC Assiut University
-](https://codeforces.com/group/MWSDmqGsZm/contests) on Codeforces, The sheet is designed for beginners in problem-solving. The solutions  here are simple and aim to helping you practice and master the basics of <img src="https://github.com/Mo7amed3bdelghany/Mo7amed3bdelghany/blob/main/Img/C++.png?raw=true" height="30"/> ... Follow me and Wait for the soluation in <img src="https://github.com/Mo7amed3bdelghany/Mo7amed3bdelghany/blob/main/Img/python.png?raw=true" height="25"/>.   
+ it is contains solutions for *[ICPC Assiut University
+](https://codeforces.com/group/MWSDmqGsZm/contests)* on Codeforces, The sheet is designed for beginners in problem-solving. The solutions  here are simple and aim to helping you practice and master the basics of c++ and python ... 
 
 ## Topics Covered
-* [Basic Syntax and Conditions](https://github.com/Mo7amed3bdelghany/Upslove_Assiut_University/tree/main/Sheet%231%20(Data%20type%20-%20Condititons))
-* [Loops](https://github.com/Mo7amed3bdelghany/Upslove_Assiut_University/tree/main/Sheet%232%20(Loops))
-* [Arrays](https://github.com/Mo7amed3bdelghany/Upslove_Assiut_University/tree/main/Sheet%233%20(Arrays))
-* [String Manipulations](https://github.com/Mo7amed3bdelghany/Upslove_Assiut_University/tree/main/Sheet%234%20(Strings))
-* [Functions](https://github.com/Mo7amed3bdelghany/Upslove_Assiut_University/tree/main/Sheet%235%20(Functions))
+* Basic Syntax and Conditions
+* Loops
+* Arrays
+* String Manipulations
+* Functions
 * Recursion
 * Mathematical Problems
 * General Problem-Solving Techniques :
