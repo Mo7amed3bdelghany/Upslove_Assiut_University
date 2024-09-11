@@ -17,6 +17,8 @@ This Repository is your first step in Comptitive Programming World:
  it is contains solutions for *[ICPC Assiut University
 ](https://codeforces.com/group/MWSDmqGsZm/contests)* on Codeforces, The sheet is designed for beginners in problem-solving. The solutions  here are simple and aim to helping you practice and master the basics of c++ and python ... 
 
+<br>
+
 ## Topics Covered
 * Basic Syntax and Conditions
 * Loops
