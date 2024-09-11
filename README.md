@@ -10,6 +10,8 @@
 ***[Solution in pyhon <img src="https://github.com/Mo7amed3bdelghany/Mo7amed3bdelghany/blob/main/Img/python.png?raw=true" height="25"/>](https://github.com/Mo7amed3bdelghany/Upslove_Assiut_University/tree/main/02.Python)*** 
 
 ## Description
+<img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg5aGkwMDU0NWk3MnBtZHdrMHBsZ3FheTZiMm5vNXd3YTgwdHhkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBlZwFc1QjzXseX7aT/giphy.webp">
+
 *Welcome to the Problem Solving Solutions repository!* 🤗  
 This Repository is your first step in Comptitive Programming World:  
  it is contains solutions for *[ICPC Assiut University
